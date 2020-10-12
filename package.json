@@ -1,19 +1,23 @@
 {
-    "name": "toy-react",
-    "version": "1.0.0",
-    "description": "react",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sczhc/toy-react.git"
-    },
-    "author": "jason",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/sczhc/toy-react/issues"
-    },
-    "homepage": "https://github.com/sczhc/toy-react#readme"
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "react toy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sczhc/toy-react.git"
+  },
+  "author": "jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sczhc/toy-react/issues"
+  },
+  "homepage": "https://github.com/sczhc/toy-react#readme",
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
   }
+}
